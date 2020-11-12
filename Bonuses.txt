@@ -1,1 +1,14 @@
+Firstly, to make some EDA on the datasets, some details which ordered below caught my attention:
 
++Has not credit in default more tend to your product.
++Has not housing loan and personal loan also more tend to your product.
++Although there are a bit contrast, less contact during campaign make taking more attention about product.
++More contact duration effect the interesting of product positively.
++Single people more choose the product rather than the other marital status.
++More education leads more interest for the product.
++Students and retired people also more tends to your product. However, when disturbiton with age and 
+interest rate of your product.Excluding 26<(supposing student) 60>(supposing retired), 
+there are a top point of interest ratio of the product 32-35 year olds. The interest reducing with increasing age or decreasing age.
+
+Secondly, the date and duration time is more important according my observation. Nearly their scaled coeffient sum is exceed 0.9.
+Especially datetime can be represent with various feature like is there holiday.It will provide more relation with the targets.
